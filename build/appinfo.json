@@ -1,0 +1,56 @@
+{
+    "displayName": "PebbleSky",
+    "uuid": "4e38c40b-74b8-4c12-9c1a-8533b6329e4a",
+    "sdkVersion": "3",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk",
+        "diorite"
+    ],
+    "enableMultiJS": true,
+    "watchapp": {
+        "watchface": false
+    },
+    "messageKeys": {
+        "status": 0,
+        "message": 1,
+        "post_id": 2,
+        "author_handle": 3,
+        "post_content": 4,
+        "likes_count": 5,
+        "reposts_count": 6,
+        "action_type": 7,
+        "reply_count": 8,
+        "error": 9,
+        "post_cid": 10
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "IMAGE_MENU_ICON",
+                "file": "images/menu_icon.png"
+            }
+        ]
+    },
+    "name": "pebblesky",
+    "shortName": "PebbleSky",
+    "longName": "PebbleSky",
+    "versionLabel": "1.0",
+    "companyName": "Henry Perzinski",
+    "appKeys": {
+        "status": 0,
+        "message": 1,
+        "post_id": 2,
+        "author_handle": 3,
+        "post_content": 4,
+        "likes_count": 5,
+        "reposts_count": 6,
+        "action_type": 7,
+        "reply_count": 8,
+        "error": 9,
+        "post_cid": 10
+    },
+    "capabilities": []
+}

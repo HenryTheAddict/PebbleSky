@@ -1,0 +1,9 @@
+{
+    "update-checks": {
+        "sdk-core": {
+            "timestamp": 1772750868.7059891,
+            "version": "4.9.127",
+            "release_notes": "Check out the release notes at https://developer.repebble.com/sdk/changelogs/4.9.127/index.html"
+        }
+    }
+}
