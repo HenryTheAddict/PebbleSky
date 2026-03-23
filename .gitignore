@@ -1,0 +1,10 @@
+# Build artifacts
+build/
+.lock-waf*
+
+# Environment and config
+.env
+tmp_home/
+
+# Dependencies
+node_modules/
